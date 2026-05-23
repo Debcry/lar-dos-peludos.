@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Lardospeludos \u0026 Pocket Knowledge",
+  "description": "Plataforma integrada de impacto social combinando o portal de adoção e transparência animal Lardospeludos com as ferramentas de utilidade pública Pocket Knowledge.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
